@@ -16,7 +16,7 @@ Users are cautioned that any references to `smoke.org` or alternative `cannacoin
 - **April 10, 2025**: Addition of `ez-linux-setup.sh` to the documentation, available at [https://github.com/cannacoin-official/cannacoin-smoke/blob/main/doc/ez-linux-setup.sh](https://github.com/cannacoin-official/cannacoin-smoke/blob/main/doc/ez-linux-setup.sh). This script facilitates streamlined setup for Linux environments.
 
 ## Additional Resources
-For further insights into the project’s vision, technical architecture, and community developments, consult the official blog at [https://blog.cannacoin.org](https://blog.cannacoin.org).
+For further insights into the project’s vision, technical architecture, and community developments, consult the official blog at [https://blog.cannacoin.org](https://blog.cannacoin.org). Additionally, the BitcoinTalk thread at [https://bitcointalk.org/index.php?topic=5536509.msg65215215#msg65215215](https://bitcointalk.org/index.php?topic=5536509.msg65215215#msg65215215) provides a platform for community discussion and updates related to *Smoke*.
 
 ## Acknowledgements
 The Cannacoin Community Foundation extends its gratitude to all supporters and apologizes for any inconvenience caused by ongoing revisions. We remain committed to delivering a robust and reliable cryptocurrency ecosystem.
