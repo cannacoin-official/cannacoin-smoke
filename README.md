@@ -16,6 +16,9 @@ Thank you and apologies for any inconvenience. Please be patient. We will get th
 
 **March 31, 2025**
 
+**April 10, 2025**
+Added ez-linux-setup.sh in /doc [https://github.com/cannacoin-official/cannacoin-smoke/blob/main/doc/ez-linux-setup.sh](here.)
+
 ---
 
 ## Additional Resources
