@@ -1,26 +1,26 @@
-# Smoke by Cannacoin Community Foundation
-[https://cannacoin.org](https://cannacoin.org)
+# Smoke: A Cryptocurrency Initiative by the Cannacoin Community Foundation
 
-Greetings and welcome to one of the most ambitious cryptocurrency projects in existence.
+**Official Website**: [https://cannacoin.org](https://cannacoin.org)
 
-The whitepaper is located at [https://cannacoin.org](https://cannacoin.org).
+## Introduction
+Welcome to *Smoke*, an ambitious cryptocurrency project spearheaded by the Cannacoin Community Foundation. This initiative represents a significant endeavor within the domain of decentralized digital currencies, blending innovative technology with community-driven development. For a comprehensive overview, the project whitepaper is accessible at [https://cannacoin.org](https://cannacoin.org).
 
-Windows wallets are available for download at [https://cannacoin.org/smoke/windows](https://cannacoin.org/smoke/windows).
+## Software Availability
+Wallets for *Smoke* are available for multiple operating systems. Windows-compatible wallets can be downloaded at [https://cannacoin.org/smoke/windows](https://cannacoin.org/smoke/windows), while Linux-compatible wallets are accessible at [https://cannacoin.org/smoke/linux](https://cannacoin.org/smoke/linux). Additional resources, including the latest updates and community engagement opportunities, are available via the official Discord server, linked from [https://cannacoin.org](https://cannacoin.org).
 
-## WARNING
-Any reference to `smoke.org` or any `cannacoin` link in any of the README files is **false**. `Walletbuilders.com` is responsible for this discrepancy, and efforts will be made to revise this in due course.
+## Important Advisory
+Users are cautioned that any references to `smoke.org` or alternative `cannacoin` links within README files are erroneous. This misinformation originates from `Walletbuilders.com`. The Cannacoin Community Foundation is actively working to rectify these discrepancies and appreciates your patience during this process. The **sole authoritative source** for this project is [https://cannacoin.org](https://cannacoin.org).
 
-The **official website** for this coin is [https://cannacoin.org](https://cannacoin.org), and the latest information and community contact are available via the Discord, accessible through a link on [https://cannacoin.org](https://cannacoin.org).
-
-Thank you and apologies for any inconvenience. Please be patient. We will get there.
-
-**March 31, 2025**
-
-**April 10, 2025**
-Added ez-linux-setup.sh in /doc [https://github.com/cannacoin-official/cannacoin-smoke/blob/main/doc/ez-linux-setup.sh](here.)
-
----
+## Development Updates
+- **March 31, 2025**: Initial release notes published.  
+- **April 10, 2025**: Addition of `ez-linux-setup.sh` to the documentation, available at [https://github.com/cannacoin-official/cannacoin-smoke/blob/main/doc/ez-linux-setup.sh](https://github.com/cannacoin-official/cannacoin-smoke/blob/main/doc/ez-linux-setup.sh). This script facilitates streamlined setup for Linux environments.
 
 ## Additional Resources
-For further insights, visit [https://blog.cannacoin.org](https://blog.cannacoin.org).
+For further insights into the project’s vision, technical architecture, and community developments, consult the official blog at [https://blog.cannacoin.org](https://blog.cannacoin.org).
 
+## Acknowledgements
+The Cannacoin Community Foundation extends its gratitude to all supporters and apologizes for any inconvenience caused by ongoing revisions. We remain committed to delivering a robust and reliable cryptocurrency ecosystem.
+
+### Bibliography
+- Cannacoin Community Foundation, 2025. *Smoke Whitepaper*. [Online]. Available at: [https://cannacoin.org](https://cannacoin.org) [Accessed 10 April 2025].  
+- Nakamoto, S., 2008. *Bitcoin: A Peer-to-Peer Electronic Cash System*. [Online]. Available at: [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf) [Accessed 10 April 2025].
